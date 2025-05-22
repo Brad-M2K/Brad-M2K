@@ -1,4 +1,7 @@
 <!-- Header -->
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" />
+</p>
 <h2 align="center">🚀 Bradley Mattison — Future Full-Stack Developer</h2>
 <p align="center">Rebuilding my life through tech. From care work to coding — and I’m just getting started.</p>
 
