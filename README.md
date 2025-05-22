@@ -1,7 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://gitubBanner.png" />
+  <img src=![GitHub Banner](https://github.com/user-attachments/assets/d7910725-fd80-49c7-b6e9-ed4f46f478bf) />
 </p>
+
 
 <h2 align="center">🚀 Bradley Mattison — Future Full-Stack Developer</h2>
 <p align="center">Rebuilding my life through tech. From care work to coding — and I’m just getting started.</p>
