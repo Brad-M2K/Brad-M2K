@@ -9,7 +9,7 @@ I'm **Bradley Mattison**, a passionate full-stack developer in training at North
 Previously in care and support roles — now rebuilding my life through code and creativity.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Currently+Learning+to+Ship+Code+That+Matters;Test+Driven+Dev+%E2%9A%94%EF%B8%8F;Future+Backend+Beast+%F0%9F%90%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=420&lines=Learning+to+Ship+Code+That+Matters;Test+Driven+Dev+%E2%9A%94%EF%B8%8F;Future+Backend+Beast+%F0%9F%90%BE" />
 </p>
 
 ---
