@@ -8,6 +8,15 @@ Previously in care and support work, now rebuilding my life through code and cre
   <img src="https://img.shields.io/badge/Learning-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-TDD-FF5733?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
+<h3 align="center">📅 Bootcamp Journey</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Week%201-JavaScript%20Basics-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Week%202-Array%20Methods-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Week%203-TDD%20+%20APIs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Week%204-Backend%20SQL-purple?style=for-the-badge" />
+</p>
+
 - 🧪 Practicing: **Test-Driven Development (Jest, Supertest)**
 - 🎯 Goal: Launching real-world projects by the end of bootcamp
 - 🧩 Interested in: Building tools, community-driven apps, & career pivots via tech
