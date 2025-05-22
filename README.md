@@ -1,19 +1,33 @@
-# 👋 Hi, I’m Bradley
+### 🧠 About Me
+I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
+Previously in care and support work, now rebuilding my life through code and creativity.
 
-I'm an aspiring full-stack software developer currently training at Northcoders, learning JavaScript, Node.js, React, and SQL.
+- 🌱 Currently learning: **JavaScript, Node.js, Express, React, SQL**
+- 🧪 Practicing: **Test-Driven Development (Jest, Supertest)**
+- 🎯 Goal: Launching real-world projects by the end of bootcamp
+- 🧩 Interested in: Building tools, community-driven apps, & career pivots via tech
 
-Before tech, I worked in care and support roles, where I developed strong communication and problem-solving skills under pressure. After starting life-changing treatment in 2022, I’ve been rebuilding from the ground up — and now I’m fully focused on launching a career in software development.
+---
 
-## 🔧 Tech I'm Learning
-- JavaScript (ES6+), Node.js
-- Test-Driven Development (Jest, Supertest)
-- SQL, Express, APIs
-- React, HTML, CSS
-- Git & GitHub, Agile workflows, pair programming
+### 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,express,postgres,git,github,vscode" />
+</p>
 
-## 📌 Projects Coming Soon
-Solo projects will be added during and after bootcamp – each with a clear README and live demo where possible.
+---
 
-## 🔗 Links
-- [LinkedIn](https://linkedin.com/in/Brad-M2K)
-- [CV available on request]
+### 🚧 Projects Coming Soon
+🔨 Portfolio pieces will drop after bootcamp — each with a live demo & clear README.
+
+---
+
+### 🤝 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer tagline -->
+<p align="center">🚀 Living proof that rebuilding your life through tech is possible.</p>
