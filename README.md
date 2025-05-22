@@ -58,6 +58,13 @@ Previously in care and support roles — now rebuilding my life through code and
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brad-M2K&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brad-M2K&theme=radical&border_radius=10&fire=DD2727&ring=DD2727" />
+</p>
 
 ### 🚧 Projects Coming Soon
 <p align="center">
