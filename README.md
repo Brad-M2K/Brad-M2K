@@ -2,6 +2,7 @@
 I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
 Previously in care and support work, now rebuilding my life through code and creativity.
 <h3 align="center">📘 Currently learning</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Learning-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -9,6 +10,7 @@ Previously in care and support work, now rebuilding my life through code and cre
   <img src="https://img.shields.io/badge/Learning-TDD-FF5733?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 <h3 align="center">📅 Bootcamp Journey</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Week%201-JavaScript%20Basics-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Week%202-Array%20Methods-green?style=for-the-badge" />
@@ -16,6 +18,7 @@ Previously in care and support work, now rebuilding my life through code and cre
   <img src="https://img.shields.io/badge/Week%204-Backend%20SQL-purple?style=for-the-badge" />
 </p>
 <h3 align="center">💡 Projects I Want To Build</h3>
+
 <p align="center">
   🧠 Ryze - Personal growth & productivity tool  
   ⚽ Leeds United Fan Platform w/ YouTube data  
