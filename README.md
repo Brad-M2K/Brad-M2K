@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" />
+  <img src="https://gitubBanner.png" />
 </p>
 
 <h2 align="center">🚀 Bradley Mattison — Future Full-Stack Developer</h2>
