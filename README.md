@@ -13,11 +13,10 @@ I'm **Bradley Mattison**, a passionate full-stack developer in training at North
 Previously in care and support roles — now rebuilding my life through code and creativity.
 
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#bootcamp-journey">Bootcamp</a> •
-  <a href="#projects-i-want-to-build">Ideas</a> •
-  <a href="#tech-stack--tools">Tech</a> •
-  <a href="#lets-connect">Contact</a>
+  <a href="#📅-bootcamp-journey">Bootcamp</a> •
+  <a href="#💡-projects-i-want-to-build">Ideas</a> •
+  <a href="#🛠-tech-stack--tools">Tech</a> •
+  <a href="#🤝-let’s-connect">Contact</a>
 </p>
 
 <p align="center">
