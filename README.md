@@ -2,7 +2,12 @@
 I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
 Previously in care and support work, now rebuilding my life through code and creativity.
 
-- 🌱 Currently learning: **JavaScript, Node.js, Express, React, SQL**
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Learning-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-TDD-FF5733?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
 - 🧪 Practicing: **Test-Driven Development (Jest, Supertest)**
 - 🎯 Goal: Launching real-world projects by the end of bootcamp
 - 🧩 Interested in: Building tools, community-driven apps, & career pivots via tech
