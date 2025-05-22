@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src=![GitHub Banner](https://github.com/user-attachments/assets/d7910725-fd80-49c7-b6e9-ed4f46f478bf) />
+  <img src="https://github.com/user-attachments/assets/d7910725-fd80-49c7-b6e9-ed4f46f478bf" />
 </p>
 
 
