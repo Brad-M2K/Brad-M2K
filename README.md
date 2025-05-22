@@ -1,8 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7910725-fd80-49c7-b6e9-ed4f46f478bf" alt="Bradley Mattison Banner" height="120"/>
-</p>
-
 <h2 align="center">🚀 Bradley Mattison — Future Full-Stack Developer</h2>
 <p align="center">Rebuilding my life through tech. From care work to coding — and I’m just getting started.</p>
 
@@ -11,13 +7,6 @@
 ### 🧠 About Me
 I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
 Previously in care and support roles — now rebuilding my life through code and creativity.
-
-<p align="center">
-  <a href="#bootcamp-journey">Bootcamp</a> •
-  <a href="#projects-i-want-to-build">Ideas</a> •
-  <a href="#tech-stack--tools">Tech</a> •
-  <a href="#let’s-connect">Contact</a>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=420&lines=Learning+to+Ship+Code+That+Matters;Test+Driven+Dev+%E2%9A%94%EF%B8%8F;Future+Backend+Beast+%F0%9F%90%BE" />
@@ -92,13 +81,8 @@ Previously in care and support roles — now rebuilding my life through code and
 
 ---
 
-<details>
-  <summary>🎉 Fun facts about me</summary>
-
-- I whistle random songs without realizing it
-- I’m a Leeds United ride-or-die fan ⚽  
-- I once fixed a broken PSP just to prove I could 🔧  
-- My side project ideas are cooler than half the apps out there  
-</details>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00FFAA&center=true&vCenter=true&width=480&lines=If+you're+reading+this%2C+you're+already+in+deep...;You're+not+supposed+to+be+here.;Unless+you're+a+real+one.;In+that+case%2C+carry+on+%F0%9F%9A%80" />
+</p>
 
 <p align="center">🚀 <em>Living proof that rebuilding your life through tech is possible.</em></p>
