@@ -93,4 +93,13 @@ Previously in care and support roles — now rebuilding my life through code and
 
 ---
 
+<details>
+  <summary>🎉 Fun facts about me</summary>
+
+- I whistle random songs without realizing it
+- I’m a Leeds United ride-or-die fan ⚽  
+- I once fixed a broken PSP just to prove I could 🔧  
+- My side project ideas are cooler than half the apps out there  
+</details>
+
 <p align="center">🚀 <em>Living proof that rebuilding your life through tech is possible.</em></p>
