@@ -57,23 +57,20 @@ Previously in care and support roles — now rebuilding my life through code and
 ---
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 
-<h4 align="center">🧠 Languages & Frameworks</h4>
 <p align="center">
+  <strong>🧠 Languages & Frameworks</strong><br/>
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react" />
 </p>
 
-<h4 align="center">🧪 Testing</h4>
 <p align="center">
+  <strong>🧪 Testing</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>💾 Databases</strong><br/>
   <img src="https://skillicons.dev/icons?i=jest" />
-</p>
-
-<h4 align="center">💾 Databases</h4>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
-<h4 align="center">🚀 Hosting & Dev Tools</h4>
 <p align="center">
+  <strong>🚀 Hosting & Dev Tools</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
   <img src="https://custom-icon-badges.demolab.com/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
