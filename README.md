@@ -56,9 +56,10 @@ Previously in care and support roles — now rebuilding my life through code and
 
 ---
 
-### 🛠 Tech Stack & Tools
+<h3 align="center">🛠 Tech Stack & Tools</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,express,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,html,css,react,jest,git,github,vscode,netlify,render,supabase" />
 </p>
 
 ---
