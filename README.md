@@ -84,15 +84,18 @@ Previously in care and support roles — now rebuilding my life through code and
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brad-M2K&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="420"/>
 </p>
 
-### 🚧 Projects Coming Soon
+<h3 align="center">📂 Projects</h3>
 <p align="center">
-  🔨 Portfolio pieces will drop after bootcamp — each with a live demo & clean README.
+  🚧 Portfolio projects will be added after bootcamp.<br/>
+  Expect GitHub links, live demos, and full breakdowns soon.
 </p>
+
 <h3 align="center">🎯 Goal</h3>
 <p align="center">
   Launching real-world projects by the end of bootcamp<br />
   and building tools that make life better.
 </p>
+
 ---
 
 ### 🤝 Let’s Connect
