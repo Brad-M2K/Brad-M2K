@@ -80,12 +80,11 @@ Previously in care and support roles — now rebuilding my life through code and
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brad-M2K&show_icons=true&theme=radical" />
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brad-M2K&theme=radical&border_radius=10&fire=DD2727&ring=DD2727" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brad-M2K&show_icons=true&hide=issues&count_private=true&theme=tokyonight&hide_title=true&border_radius=10&hide_rank=false" width="420"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brad-M2K&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="420"/>
 </p>
 
 ### 🚧 Projects Coming Soon
