@@ -79,12 +79,6 @@ Previously in care and support roles — now rebuilding my life through code and
   <img src="https://custom-icon-badges.demolab.com/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-<h3 align="center">🛠 Tech Stack & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,html,css,react,jest,git,github,vscode,netlify,render,supabase" />
-</p>
-
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brad-M2K&show_icons=true&theme=radical" />
