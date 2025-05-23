@@ -1,14 +1,12 @@
 <!-- Header -->
-<h2 align="center">🚀 Bradley Mattison — Junior Full-Stack Developer</h2>
+<h2 align="center">🚀 Bradley Mattison — Future Full-Stack Developer</h2>
 <p align="center">Rebuilding my life through tech. From care work to coding — and I’m just getting started.</p>
 
 ---
 
-<h3 align="center">🧠 About Me</h3>
-<p align="center">
-  I'm <span style="color:#FFD700;"><strong>Bradley Mattison</strong></span>, a passionate full-stack developer in training at Northcoders.<br/>
-  Previously in care and support work — now <span style="color:#00FF7F;"><strong>rebuilding my life through code</strong></span> and creativity.
-</p>
+### 🧠 About Me
+I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
+Previously in care and support roles — now rebuilding my life through code and creativity.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=420&lines=Learning+to+Ship+Code+That+Matters;Test+Driven+Dev+%E2%9A%94%EF%B8%8F;Future+Backend+Beast+%F0%9F%90%BE" />
@@ -17,6 +15,7 @@
 ---
 
 <h3 align="center">📚 Currently Learning</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -31,6 +30,7 @@
 ---
 
 <h3 align="center">📅 Bootcamp Journey</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Week%201-JavaScript%20Basics-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Week%202-Array%20Methods-green?style=for-the-badge" />
@@ -41,19 +41,20 @@
 ---
 
 <h3 align="center">💡 Projects I Want To Build</h3>
+
 <p align="center">
-  🧠 <strong>Ryze</strong> — Personal growth & productivity tool<br/>
-  ⚽ <strong>Leeds United Fan Platform</strong> — w/ YouTube content & community<br/>
-  ⏱️ <strong>AI-Powered Habit Tracker</strong> — Daily insights, zero fluff
+  🧠 <strong>Ryze</strong> — Personal growth & productivity tool  
+  ⚽ <strong>Leeds United Fan Platform</strong> — w/ YouTube content & community  
+  ⏱️ <strong>AI-Powered Habit Tracker</strong> — Daily insights, zero fluff  
 </p>
 
 <p align="center">
-  🧪 Practicing: <strong>Test-Driven Development (Jest, Supertest)</strong><br/>
+  🧪 Practicing: <strong>Test-Driven Development (Jest, Supertest)</strong><br />
+  🎯 Goal: Launching real-world projects by the end of bootcamp<br />
   🧩 Interested in: Building tools, community-driven apps, & tech career pivots  
 </p>
 
 ---
-
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 
 <p align="center">
@@ -76,7 +77,6 @@
 </p>
 
 ---
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -84,25 +84,21 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brad-M2K&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="420"/>
 </p>
 
----
-
 <h3 align="center">📂 Projects</h3>
 <p align="center">
   🚧 Portfolio projects will be added after bootcamp.<br/>
   Expect GitHub links, live demos, and full breakdowns soon.
 </p>
 
----
-
 <h3 align="center">🎯 Goal</h3>
 <p align="center">
-  <strong>Launch real-world projects</strong> by the end of bootcamp,<br/>
-  and build tools that make life better.
+  Launching real-world projects by the end of bootcamp<br />
+  and building tools that make life better.
 </p>
 
 ---
 
-<h3 align="center">🤝 Let’s Connect</h3>
+### 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/brad-m2k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bradleymattison2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -114,4 +110,5 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00FFAA&center=true&vCenter=true&width=480&lines=If+you're+reading+this%2C+you're+already+in+deep...;You're+not+supposed+to+be+here.;Unless+you're+a+real+one.;In+that+case%2C+carry+on+%F0%9F%9A%80" />
 </p>
 
-<p align="center"><em>“Still learning. Still building. Still breathing.”</em></p>
+<p align="center">🚀 <em>Living proof that rebuilding your life through tech is possible.</em></p>
+<p align="center">🧠 “Still learning. Still building. Still breathing.”</p>
