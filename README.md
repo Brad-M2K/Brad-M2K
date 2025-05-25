@@ -106,9 +106,9 @@ Previously in care and support roles — now rebuilding my life through code and
 
 ---
 
+<p align="center">🚀 <em>Living proof that rebuilding your life through tech is possible.</em></p>
+<p align="center">🧠 “Still learning. Still building. Still breathing.”</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00FFAA&center=true&vCenter=true&width=480&lines=If+you're+reading+this%2C+you're+already+in+deep...;You're+not+supposed+to+be+here.;Unless+you're+a+real+one.;In+that+case%2C+carry+on+%F0%9F%9A%80" />
 </p>
-
-<p align="center">🚀 <em>Living proof that rebuilding your life through tech is possible.</em></p>
-<p align="center">🧠 “Still learning. Still building. Still breathing.”</p>
