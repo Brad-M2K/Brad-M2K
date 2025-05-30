@@ -1,37 +1,41 @@
-🧑‍💻 Brad’s VS Code Setup Guide
+# 🧑‍💻 Brad's VS Code Setup Guide
 
 This guide walks you through replicating my full Visual Studio Code setup, including themes, icons, extensions, and custom settings.
 
-No syncing. No scripts. Just clean manual setup.
+**No syncing. No scripts. Just clean manual setup.**
 
-⸻
+---
 
-🎨 1. Theme and Icon Setup
+## 1. 🎨 Theme and Icon Setup
 
-🎨 Color Theme
+### 🎨 Color Theme
 
-SynthWave ’84 Min Darker Theme
-🔍 Search: fernaandojr.synthwave-remix-min-darker
-⚙️ Apply: Settings > Theme > Color Theme
+**SynthWave '84 Min Darker Theme**
 
-🗂 File Icon Theme
+* Search: `fernaandojr.synthwave-remix-min-darker`
+* Apply via: `Settings > Theme > Color Theme`
 
-Catppuccin Frappé Icons
-🔍 Search: catppuccin.catppuccin-vsc-icons
-⚙️ Apply: Settings > Theme > File Icon Theme
+### 🗂 File Icon Theme
 
-🧩 Product Icon Theme
+**Catppuccin Frappé Icons**
 
-Atom Material Product Icons
-🔍 Search: atommaterial.a-file-icon-vscode
-⚙️ Apply: Settings > Theme > Product Icon Theme
+* Search: `catppuccin.catppuccin-vsc-icons`
+* Apply via: `Settings > Theme > File Icon Theme`
 
-⸻
+### 🧩 Product Icon Theme
 
-🔌 2. Extensions to Install
+**Atom Material Product Icons**
+
+* Search: `atommaterial.a-file-icon-vscode`
+* Apply via: `Settings > Theme > Product Icon Theme`
+
+---
+
+## 2. 🔌 Extensions to Install
 
 Use the Extensions sidebar (⇧⌘X) and search for each of the following manually:
 
+```
 aaron-bond.better-comments
 azemoh.one-monokai
 catppuccin.catppuccin-vsc
@@ -51,66 +55,61 @@ streetsidesoftware.code-spell-checker
 usernamehw.errorlens
 teabyii.ayu
 wix.vscode-import-cost
+```
 
+---
 
-⸻
-
-✨ 3. Key Extensions to Understand
+## 3. ✨ Key Extensions to Understand
 
 These are especially useful. Take a minute to learn what they do:
 
-⚡ Turbo Console Log
+### ⚡ Turbo Console Log
 
-chakrounanas.turbo-console-log
+**chakrounanas.turbo-console-log**
+Auto-generates `console.log()` lines with context info for quick debugging.
 
-Auto-generates console.log() lines with context info for quick debugging.
+### 🟡 Better Comments
 
-🟡 Better Comments
+**aaron-bond.better-comments**
+Adds colours and categories (TODO, !, ?, \*) to improve readability of comments.
 
-aaron-bond.better-comments
+### 🔍 GitLens
 
-Adds colours and categories (TODO, !, ?, *) to improve readability of comments.
-
-🔍 GitLens
-
-eamodio.gitlens
-
+**eamodio.gitlens**
 Adds Git blame, authorship, history, and visual inline annotations.
 
-🧼 Prettier
+### 🧼 Prettier
 
-esbenp.prettier-vscode
-
+**esbenp.prettier-vscode**
 Automatically formats code on save to maintain consistent style.
 
-❗ Error Lens
+### ❗ Error Lens
 
-usernamehw.errorlens
-
+**usernamehw\.errorlens**
 Displays warnings and errors inline instead of just in the Problems panel.
 
-📌 Todo Tree
+### 📌 Todo Tree
 
-gruntfuggly.todo-tree
-
+**gruntfuggly.todo-tree**
 Finds all TODOs and FIXMEs across files and shows them in a side panel.
 
-🎨 Custom CSS Loader
+### 🎨 Custom CSS Loader
 
-be5invis.vscode-custom-css
-
+**be5invis.vscode-custom-css**
 Lets you add custom styling to VS Code like SynthWave’s neon glow.
 
-⸻
+---
 
-⚙️ 4. Key Editor Settings
+## 4. ⚙️ Key Editor Settings
 
 To apply these:
-	•	Go to Settings (gear icon) > Settings
-	•	Or open via Command Palette: Cmd + Shift + P → Preferences: Open Settings (JSON)
+
+* Go to `Settings` (gear icon) > `Settings`
+* Or open via Command Palette: `Cmd + Shift + P` → `Preferences: Open Settings (JSON)`
 
 Paste in the settings below:
 
+```json
 {
   "workbench.colorTheme": "SynthWave '84 Min Darker Theme",
   "workbench.iconTheme": "catppuccin-frappe",
@@ -131,19 +130,21 @@ Paste in the settings below:
   "workbench.sideBar.location": "right",
   "explorer.confirmDelete": false
 }
+```
 
+---
 
-⸻
+## 5. 💡 Optional — Neon Glow Effect (SynthWave Style)
 
-💡 5. Optional — Neon Glow Effect (SynthWave Style)
+Want glowing text inside the editor?
 
-If you want glowing text inside the editor:
+### Step-by-step:
 
-Step-by-step:
-	1.	Install: be5invis.vscode-custom-css
-	2.	Create a file called synthwave-glow.css
-	3.	Paste this:
+1. Install: `be5invis.vscode-custom-css`
+2. Create a file called `synthwave-glow.css`
+3. Paste this into the file:
 
+```css
 :root {
   --synthwave-glow: 0 0 5px #f5f, 0 0 10px #f0f, 0 0 20px #f0f, 0 0 40px #f0f;
 }
@@ -151,17 +152,16 @@ Step-by-step:
 .monaco-editor .token {
   text-shadow: var(--synthwave-glow);
 }
+```
 
-	4.	Open Command Palette → Enable Custom CSS and JS
-	5.	Select your CSS file when prompted
-	6.	Restart VS Code and approve the styling warning
+4. Open Command Palette → `Enable Custom CSS and JS`
+5. Select your CSS file when prompted
+6. Restart VS Code and approve the styling warning
 
-⸻
+---
 
+## ✅ Done
 
-<div align="center">
-  <strong>That's everything!</strong><br>
-  Try one section at a time and enjoy your custom setup.
-  <br><br>
-  — Brad
-</div>
+That’s it. Go one section at a time and enjoy your custom setup.
+
+**– Brad**
