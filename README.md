@@ -1,5 +1,5 @@
 <!-- Header -->
-<h2 align="center">🚀 Bradley Mattison — Future Full-Stack Developer</h2>
+<h2 align="center">🚀 Bradley Mattison — Junior Full-Stack Developer</h2>
 <p align="center">Rebuilding my life through tech. From care work to coding — and I’m just getting started.</p>
 
 ---
