@@ -114,4 +114,4 @@ Previously in care and support roles — now rebuilding my life through code and
 </p>
 
 ### 🧑‍💻 My VS Code Setup
-Check out my full setup guide here: [vscode-setup-guide.md](./vscode-setup-guide.md)
+Check out my full setup guide here: [[vscode-setup-guide.md](https://lnkd.in/evh7whTd)]
