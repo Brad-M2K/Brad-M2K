@@ -113,5 +113,5 @@ Previously in care and support roles — now rebuilding my life through code and
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00FFAA&center=true&vCenter=true&width=480&lines=If+you're+reading+this%2C+you're+already+in+deep...;You're+not+supposed+to+be+here.;Unless+you're+a+real+one.;In+that+case%2C+carry+on+%F0%9F%9A%80" />
 </p>
 
-### 🧑‍💻 My VS Code Setup
+<h4 align="center">🧑‍💻 My VS Code Setup</h4>
 Check out my full setup guide here: [[vscode-setup-guide.md](https://lnkd.in/evh7whTd)]
