@@ -108,7 +108,6 @@ Previously in care and support roles — now rebuilding my life through code and
   <p align="center">
   <code>bradleymattison2000@gmail.com</code>
 </p>
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
 </p>
 
