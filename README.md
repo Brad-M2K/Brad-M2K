@@ -3,6 +3,9 @@
 <p align="center">Rebuilding my life through tech. From care work to coding — and I’m just getting started.</p>
 
 ---
+### 🧠 About Me
+I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
+Previously in care and support roles — now rebuilding my life through code and creativity.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=420&lines=Learning+to+Ship+Code+That+Matters;Test+Driven+Dev+%E2%9A%94%EF%B8%8F;Future+Backend+Beast+%F0%9F%90%BE" />
