@@ -44,7 +44,7 @@ Previously in care and support roles — now rebuilding my life through code and
 
 <p align="center">
   <strong>🧠 Languages & Frameworks</strong><br/>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react,nextjs,tailwind,prisma,zustand" />
 </p>
 
 <p align="center">
