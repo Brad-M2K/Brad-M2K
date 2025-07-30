@@ -56,7 +56,7 @@ Previously in care and support roles — now rebuilding my life through code and
 
 <p align="center">
   <strong>🚀 Hosting & Dev Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
   <img src="https://custom-icon-badges.demolab.com/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
