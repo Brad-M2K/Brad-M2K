@@ -4,7 +4,7 @@
 
 ---
 ### 🧠 About Me
-I'm **Bradley Mattison**, a passionate full-stack developer in training at Northcoders.  
+I'm **Bradley Mattison**, a passionate full-stack developer and Alumnus of Northcoders.  
 Previously in care and support roles — now rebuilding my life through code and creativity.
 
 <p align="center">
