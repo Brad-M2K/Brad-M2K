@@ -11,34 +11,6 @@ Previously in care and support roles — now rebuilding my life through code and
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=420&lines=Learning+to+Ship+Code+That+Matters;Test+Driven+Dev+%E2%9A%94%EF%B8%8F;Future+Backend+Beast+%F0%9F%90%BE" />
 </p>
 
-
----
-
-<h3 align="center">📅 Bootcamp Journey</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Week%201-JavaScript%20Basics-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Week%202-Array%20Methods-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Week%203-TDD%20+%20APIs-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Week%204-Backend%20SQL-purple?style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">💡 Projects I Want To Build</h3>
-
-<p align="center">
-  🧠 <strong>Ryze</strong> — Personal growth & productivity tool  
-  ⚽ <strong>Leeds United Fan Platform</strong> — w/ YouTube content & community  
-  ⏱️ <strong>AI-Powered Habit Tracker</strong> — Daily insights, zero fluff  
-</p>
-
-<p align="center">
-  🧪 Practicing: <strong>Test-Driven Development (Jest, Supertest)</strong><br />
-  🎯 Goal: Launching real-world projects by the end of bootcamp<br />
-  🧩 Interested in: Building tools, community-driven apps, & tech career pivots  
-</p>
-
 ---
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 
@@ -69,19 +41,6 @@ Previously in care and support roles — now rebuilding my life through code and
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brad-M2K&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="420"/>
 </p>
 
-<h3 align="center">📂 Projects</h3>
-<p align="center">
-  🚧 Portfolio projects will be added after bootcamp.<br/>
-  Expect GitHub links, live demos, and full breakdowns soon.
-</p>
-
-<h3 align="center">🎯 Goal</h3>
-<p align="center">
-  Launching real-world projects by the end of bootcamp<br />
-  and building tools that make life better.
-</p>
-
----
 
 <h2 align="center">🤝 Let’s Connect</h2>
 
