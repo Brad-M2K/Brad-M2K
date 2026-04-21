@@ -35,3 +35,4 @@ const bradley = {
   strongestTraits: ["Resilient", "People-first", "Obsessed with improving"],
   buildingTowards: "Backend-heavy full-stack developer",
 };
+```
