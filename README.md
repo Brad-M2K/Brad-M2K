@@ -36,3 +36,120 @@ const bradley = {
   buildingTowards: "Backend-heavy full-stack developer",
 };
 ```
+
+---
+
+## `about.exe`
+
+I did not come into tech through the usual route.
+
+I came from care and support work, rebuilt my direction from scratch, and found something in software that clicked properly.
+
+Now I build web apps, sharpen my backend skills, and keep pushing to get better every week.
+
+---
+
+## `stack.sh`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,html,css,tailwind,postgres,prisma,jest,git,github,vscode,vercel&perline=8" />
+
+</div>
+
+<div align="center">
+
+| Zone | Tools |
+|---|---|
+| Frontend | `React` `Next.js` `HTML` `CSS` `Tailwind` |
+| Backend | `Node.js` `Express` `REST APIs` |
+| Data | `PostgreSQL` `Prisma` `Supabase` |
+| Testing | `Jest` |
+| Workflow | `Git` `GitHub` `Vercel` `Render` |
+
+</div>
+
+---
+
+## `stats/`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Brad-M2K&show_icons=true&theme=transparent&title_color=00e7ff&text_color=c9d1d9&icon_color=00ffb3&border_color=30363d&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=Brad-M2K&theme=transparent&ring=00e7ff&fire=00ffb3&currStreakLabel=c9d1d9&border=30363d" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brad-M2K&layout=compact&theme=transparent&title_color=00e7ff&text_color=c9d1d9&border_color=30363d" />
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=Brad-M2K&theme=algolia&no-frame=true&no-bg=true&row=1&column=3" />
+
+</div>
+
+---
+
+## `current_focus.md`
+
+```diff
++ Building stronger backend instincts
++ Writing cleaner and better tested code
++ Shipping full-stack projects end-to-end
++ Making my setup, workflow, and output look intentional
+- Waiting around to feel ready
+```
+
+---
+
+## `signal.log`
+
+> Living proof that rebuilding your life through tech is possible.
+>
+> Still learning. Still building. Still here.
+
+---
+
+## `deep_dive/`
+
+<details>
+<summary><b>Open this if you want the real version</b></summary>
+
+<br/>
+
+I am not trying to fake seniority.
+
+I am trying to become undeniably solid by stacking real reps, real projects, and real improvement over time.
+
+That means:
+- building when motivation is low
+- fixing what I do not understand
+- learning the boring parts properly
+- staying in the fight long enough to get dangerous
+
+</details>
+
+---
+
+## `loadouts/`
+
+<div align="center">
+
+### VS Code Setup Guide
+### [Open the guide](https://lnkd.in/evh7whTd)
+
+</div>
+
+---
+
+## `contact --init`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/brad-m2k">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bradleymattison2000@gmail.com">
+  <img src="https://img.shields.io/badge/SEND_EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c2ff,100:00ffb3&height=2&section=footer" />
+
+</div>
